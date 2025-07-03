@@ -1,0 +1,4 @@
+echo "Just another test commit" >> notes.txt
+git add .
+git commit -m "Add extra notes for commit history"
+git push
