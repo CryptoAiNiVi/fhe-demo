@@ -16,5 +16,3 @@ b = EncryptedValue(y)
 c = a + b
 
 print(f"Decrypted result: {c.value}")
-
-12
