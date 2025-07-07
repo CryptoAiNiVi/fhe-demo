@@ -1,3 +1,5 @@
+README
+
 # 🔒 FHE Demo
 
 A simple "Hello FHE World" using Python to illustrate the concept of **Fully Homomorphic Encryption (FHE)** — performing computations directly on encrypted data without decrypting it.
