@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 This is a test note for commits
 Another line for commits
+=======
